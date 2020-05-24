@@ -27,8 +27,6 @@ install.packages(c(
 
 ---
 title: "Some background Geospatial Concepts"
-subtitle: "Daryn Ramsden"
-author: "thisisdaryn at gmail dot com"
 date: "last updated: `r Sys.Date()`"
 institution: ""
 output:
